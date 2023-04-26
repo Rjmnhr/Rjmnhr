@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rjmnhr
+- 👋 Hi, I’m Renjith Manohar
 - 👀 I’m interested in Updating the World
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
